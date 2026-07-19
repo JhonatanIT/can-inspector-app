@@ -1,0 +1,63 @@
+﻿# Android/Gradle
+.gradle/
+**/build/
+build/
+
+# Gradle Wrapper
+gradle-wrapper.jar
+
+# Local configuration (sdk path, etc.)
+local.properties
+
+# IDE / Editor
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+
+# Android Studio captures & generated
+captures/
+.externalNativeBuild/
+.cxx/
+.navigation/
+
+# Kotlin / Java
+*.class
+*.log
+
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Native / compiled libs
+*.so
+*.o
+*.obj
+
+# Signing keys and credentials (do not commit keystores)
+*.jks
+*.keystore
+*.pem
+keystore.*
+
+# ProGuard / mapping files
+mapping.txt
+outputs/mapping/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Misc
+*.keystore.*
+*.orig
+*.bak
+.vscode/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+
+# JetBrains specific caches (optional)
+out/
