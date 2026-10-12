@@ -10,7 +10,7 @@ plugins {
 val composeBomVersion = "2026.06.01"
 val lifecycleVersion = "2.11.0"
 val navigationComposeVersion = "2.9.8"
-val coreKtxVersion = "1.19.0"
+val coreKtxVersion = "1.19.1"
 val activityComposeVersion = "1.13.0"
 
 // Configure the Android application extension (AGP 9+ new DSL)
