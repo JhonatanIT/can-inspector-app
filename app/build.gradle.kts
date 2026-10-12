@@ -9,7 +9,7 @@ plugins {
 // Dependency versions (avoid hardcoded literals for SonarQube compliance)
 val composeBomVersion = "2026.06.01"
 val lifecycleVersion = "2.11.0"
-val navigationComposeVersion = "2.9.8"
+val navigationComposeVersion = "2.10.2"
 val coreKtxVersion = "1.19.1"
 val activityComposeVersion = "1.13.0"
 
